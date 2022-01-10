@@ -1,6 +1,8 @@
 # json-to-csv
 JSON Converter(CSV)
 
+<h2> Input </h2>
+
 ``` java
 [
     {
@@ -43,4 +45,5 @@ JSON Converter(CSV)
 ]
 ```
 
+<h2> Result </h2>
 <img width="385" alt="image" src="https://user-images.githubusercontent.com/76509935/148723038-93365ae7-6fe5-48bc-a506-80006f1fd9fc.png">
